@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RSM_Updated_Points_CalculatorTests
+build_property.ProjectDir = C:\Users\Beka\Desktop\RSM_Points_Calculator\RSM_Updated_Points_Calculator\RSM_Updated_Points_CalculatorTests\

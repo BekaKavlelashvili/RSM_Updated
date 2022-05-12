@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "593e5581-ec9b-4187-bf5d-c95c1c5c3572": {
+      "ProjectGuid": "593e5581-ec9b-4187-bf5d-c95c1c5c3572",
+      "DisplayName": "RSM_Updated_Points_Calculator",
+      "ColorIndex": 0
+    },
+    "c7aa5732-bfef-4d61-ac56-147aefb287bc": {
+      "ProjectGuid": "c7aa5732-bfef-4d61-ac56-147aefb287bc",
+      "DisplayName": "RSM_Updated_Points_CalculatorTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
